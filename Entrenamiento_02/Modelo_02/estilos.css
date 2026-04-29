@@ -79,12 +79,12 @@ h1{
     order: 5;  
 }
 .c{
-grid-column: 2/3;
-order: 4;
-}
-.d{
 grid-column: 1/2;
 order: 3;
+}
+.d{
+grid-column: 2/3;
+order: 4;
 }
 .e{
     background-color: rgb(184, 206, 247);
